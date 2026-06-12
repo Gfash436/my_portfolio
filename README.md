@@ -21,7 +21,7 @@ High-performance crypto and fintech app serving thousands of users with real-tim
 - ✅ Managed deployment to Google Play Store & Apple App Store
 
 **Technologies:**
-`Flutter` • `Dart` • `MVVM` • `Riverpod` • `Firebase` • `REST APIs` • `OneSignal` • `Paystack`
+`Flutter` • `Dart` • `MVVM` • `Riverpod` • `Firebase` • `REST APIs` • `OneSignal` • `Zoho SalesIQ Mobilisten`
 
 **Live App:**
 - 🎮 [Google Play Store](https://play.google.com/store/apps/details?id=com.wiseki.sekiapp&hl=en)
@@ -34,6 +34,8 @@ High-performance crypto and fintech app serving thousands of users with real-tim
   <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/images/sekiapp3.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 3">
   <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/images/sekiapp4.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 4">
 </div>
+
+---
 
 ### 2. ShopNig – E-Commerce Platform
 **Role:** Lead Flutter Developer | **Duration:** Sep 2023 – Present
@@ -50,15 +52,53 @@ Full-featured e-commerce marketplace with product listings, shopping cart, payme
 - ✅ Managed app store deployment pipelines
 
 **Technologies:**
-`Flutter` • `Dart` • `MVVM` • `Riverpod` • `Firebase` • `REST APIs` • `Stripe`
+`Flutter` • `Dart` • `MVVM` • `Riverpod` • `Firebase` • `REST APIs` • `Flutterwave` • `PayStack`
 
 **Live App:**
 - 🎮 [Google Play Store](https://play.google.com/store/apps/details?id=com.wiseki.shopnig&hl=en)
 
+**Screenshots:**
+<div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin: 20px auto;">
+  <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/images/shopnig1.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 1">
+  <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/images/shopnig2.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 2">
+  <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/images/shopnig3.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 3">
+  <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/images/shopnig4.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 4">
+</div>
+
 ---
 
-### 3. Supply Smart – Agency Banking & POS
-**Role:** Mobile App Engineer (Remote) | **Duration:** May 2023 – May 2025
+### 3. Plug.ng – Financial Services
+**Role:** Lead Flutter Developer | **Duration:** Sep 2023 – Present
+
+**About:**
+A bill payment, virtual card, and gift card services platform with KYC verification.
+
+**My Contributions:**
+- ✅ Built application from scratch using Flutter & MVVM architecture
+- ✅ Integrated KYC verification for compliance
+- ✅ Implemented virtual card services
+- ✅ Built bill payment functionality
+- ✅ Conducted end-to-end testing & store compliance
+
+**Technologies:**
+`Flutter` • `Dart` • `MVVM` • `REST APIs` • `Firebase` • `OneSignal` • `Zoho SalesIQ Mobilisten`
+
+**Live App:**
+- 🎮 [Google Play Store](https://play.google.com/store/apps/details?id=com.plugdot.plugng&hl=en)
+- 🎮 [Apple App Store](https://apps.apple.com/us/app/plug-ng-data-airtime-cards/id6745476904)
+
+**Screenshots:**
+<div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin: 20px auto;">
+  <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/images/plug1.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 1">
+  <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/images/plug2.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 2">
+  <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/images/plug3.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 3">
+  <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/images/plug4.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 4">
+</div>
+
+---
+
+### 4. Supply Smart – Agency Banking & POS
+**Role:** Mobile App Engineer (Remote) | **Duration:** May 2022 – May 2023
 
 **About:**
 Comprehensive banking and point-of-sale application for agency services with account management and bill payments.
@@ -76,25 +116,13 @@ Comprehensive banking and point-of-sale application for agency services with acc
 **Live App:**
 - 🎮 [Google Play Store](https://play.google.com/store/apps/details?id=com.supplysmart.supplysmartapp&hl=en)
 
-### 4. Plug.ng – Financial Services
-**Role:** Lead Flutter Developer | **Duration:** Sep 2023 – Present
-
-**About:**
-A bill payment, virtual card, and gift card services platform with KYC verification.
-
-**My Contributions:**
-- ✅ Built application from scratch using Flutter & MVVM architecture
-- ✅ Integrated KYC verification for compliance
-- ✅ Implemented virtual card services
-- ✅ Built bill payment functionality
-- ✅ Conducted end-to-end testing & store compliance
-
-**Technologies:**
-`Flutter` • `Dart` • `MVVM` • `REST APIs` • `Firebase`
-
-**Live App:**
-- 🎮 [Google Play Store](https://play.google.com/store/apps/details?id=com.plugdot.plugng&hl=en)
-- 🎮 [Apple App Store](https://apps.apple.com/us/app/plug-ng-data-airtime-cards/id6745476904)
+**Screenshots:**
+<div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin: 20px auto;">
+  <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/images/smart1.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 1">
+  <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/images/smart2.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 2">
+  <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/images/smart3.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 3">
+  <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/images/smart4.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 4">
+</div>
 
 ---
 
