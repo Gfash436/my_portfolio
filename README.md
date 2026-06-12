@@ -28,12 +28,11 @@ High-performance crypto and fintech app serving thousands of users with real-tim
 - 🎮 [Apple App Store](https://apps.apple.com/us/app/sekiapp/id1622624126)
 
 **Screenshots:**
-<div style="width: 100%; text-align: center;">
-  <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin: 20px auto; max-width: 900px;">
-    <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/sekiapp1.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 1">
-    <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/sekiapp2.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 2">
-    <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/sekiapp3.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 3">
-  </div>
+<div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin: 20px auto;">
+  <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/images/sekiapp1.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 1">
+  <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/images/sekiapp2.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 2">
+  <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/images/sekiapp3.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 3">
+  <img src="https://github.com/Gfash436/my_portfolio/raw/Gfash/images/sekiapp4.webp" width="210" height="420" style="object-fit: cover;" alt="SEKIAPP 4">
 </div>
 
 ### 2. ShopNig – E-Commerce Platform
